@@ -1,0 +1,19 @@
+{
+  "name": "1906-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "pg": "^7.14.0",
+    "redis": "^2.8.0",
+    "sequelize": "^5.21.2"
+  }
+}
